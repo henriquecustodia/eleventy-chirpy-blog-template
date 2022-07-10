@@ -11,3 +11,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- content/posts/2022/the-first-post.md
